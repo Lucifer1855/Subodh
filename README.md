@@ -39,6 +39,7 @@ Technologies I use to build beautiful, performant web applications:
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![RDBMS](https://img.shields.io/badge/RDBMS-%23007396.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 

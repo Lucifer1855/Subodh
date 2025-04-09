@@ -12,7 +12,7 @@ I'm a passionate front-end developer who loves turning ideas into pixel-perfect,
 
 ## 💬 Let’s Connect!
 
-📧 **Email**: (wasubodh146@gmail.com)  
+📧 Email : wasubodh146@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/subodhwathore]()  
 🌐 **Portfolio**: [subodhwathore.dev](https://subodhwathore.dev)  
 💻 **GitHub**: [github.com/subodhwathore](https://github.com/subodhwathore)

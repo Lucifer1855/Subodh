@@ -12,8 +12,8 @@ I'm a passionate front-end developer who loves turning ideas into pixel-perfect,
 
 ## 💬 Let’s Connect!
 
-📧 **Email**: subodh.wasubodh146@gmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/subodhwathore](https://https://www.linkedin.com/in/subodh-wathore-10a043251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGJWtSM2MTBqfRVl3HGtWLw%3D%3D)  
+📧 **Email**: (wasubodh146@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/subodhwathore]()  
 🌐 **Portfolio**: [subodhwathore.dev](https://subodhwathore.dev)  
 💻 **GitHub**: [github.com/subodhwathore](https://github.com/subodhwathore)
 

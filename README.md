@@ -12,11 +12,18 @@ I'm a passionate front-end developer who loves turning ideas into pixel-perfect,
 
 ## 💬 Let’s Connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-wasubodh146@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasubodh146@gmail.com)
+<p align="left">
+  <a href="https://www.instagram.com/_lucifer1855_/">
+    <img src="https://img.shields.io/badge/Instagram-@_lucifer1855_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:wasubodh146@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-wasubodh146@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/subodh-wathore-10a043251">
+    <img src="https://img.shields.io/badge/LinkedIn-Subodh%20Wathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-🔗 Linkedin : https://www.linkedin.com/in/subodh-wathore-10a043251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8vSv4SMkRWqDvWEULM%2FKdw%3D%3D 
-
- [![Instagram](https://img.shields.io/badge/Instagram-@_lucifer1855_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucifer1855_/)
 
 
 

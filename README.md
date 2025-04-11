@@ -14,7 +14,8 @@ I'm a passionate front-end developer who loves turning ideas into pixel-perfect,
 
 📧 Email : wasubodh146@gmail.com  
 🔗 Linkedin : https://www.linkedin.com/in/subodh-wathore-10a043251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8vSv4SMkRWqDvWEULM%2FKdw%3D%3D 
- [Instagram](https://www.instagram.com/_Lucifer1855_/)
+ [![Instagram](https://img.shields.io/badge/Instagram-@_lucifer1855_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lucifer1855_/)
+
 
 
 
